@@ -47,9 +47,9 @@ This project was created using the following technologies.
 
 
 ## Author
-- Github: [berthutapea](https://github.com/Amir7739)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/alam7739/)
-- Email: [berthutapea@gmail.com](mdamira949@gmail.com)
+- Github: [Amir](https://github.com/Amir7739)
+- Linkedin: [Amir](https://www.linkedin.com/in/alam7739/)
+- Email: [mdamira949@gmail.com](mdamira949@gmail.com)
 
 ## License
 
